@@ -1,0 +1,3 @@
+Min H(deg.), MaxH(deg.), Interval(deg.), Declination(deg.), Wavelength(m)
+0.0 30.0 30.0 45 1
+
